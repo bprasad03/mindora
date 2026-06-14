@@ -1,4 +1,4 @@
-# Mindora – AI Mental Wellness Companion
+# Mindora – AI Mental Wellness Assistant 
 
 Mindora is an emotion-aware mental wellness chatbot that combines machine learning with large language models to deliver empathetic, context-driven conversations. It detects the user's emotional state from their message using a trained ML classifier, then passes that context to an LLM to generate a compassionate, human-like response — making every interaction feel understood and supported.
 
